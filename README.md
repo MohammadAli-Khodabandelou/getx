@@ -35,8 +35,7 @@
 [![French](https://img.shields.io/badge/Language-French-blueviolet?style=for-the-badge)](README-fr.md)
 [![Japanese](https://img.shields.io/badge/Language-Japanese-blueviolet?style=for-the-badge)](README.ja-JP.md)
 [![Hindi](https://img.shields.io/badge/Language-Hindi-blueviolet?style=for-the-badge)](README-hi.md)
-[![Persian (Farsi)](https://img.shields.io/badge/Language-Persian(Farsi)-blueviolet?style=for-the-badge)](README-fa.md)
-
+[![Persian](https://img.shields.io/badge/Language-Persian-blueviolet?style=for-the-badge)](README-fa.md)
   
   
 </div>
